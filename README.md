@@ -1,5 +1,3 @@
-<img src="images/Hadoop_export.png" width="100%" align="center"/></a>
-
 ## Hi there, I'm Julien 👋
 
 I'm a data scientist student. I mainly code with Python and occasionally with R. I develop and maintain my own Hadoop Cluster. I also create a very basic blockchain to understand how it works. I'm interested in dev-ops solutions (Docker, Github Actions...) 
