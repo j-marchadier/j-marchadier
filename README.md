@@ -1,4 +1,4 @@
-<img src="images/forecast_plot.png" width="100%" align="center"/></a>
+<img src="images/hadoop_export.png" width="100%" align="center"/></a>
 
 ## Hi there, I'm Julien 👋
 
