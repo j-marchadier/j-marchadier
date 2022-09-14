@@ -1,39 +1,16 @@
-### Hi there 👋
-
-<!--
-**juju312000/juju312000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img src="images/forecast_plot.png" width="100%" align="center"/></a>
 
-## Hi there, I'm Rami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+## Hi there, I'm Julien 👋
 
-I'm a data science manager and an open-source contributor. I mainly write code with R and bash, occasionally I do Python, HTML, CSS, and currently I am learning JavaScript and Julia.
+I'm a data scientist student. I mainly code with Python and occasionally with R. I develope and maintain my own Hadoop Cluster. I also create a very basic blockchain to understand how it works. I'm interested in dev-ops solutions (Docker, Github Actions...) 
 
-Here is some of the stuff I enjoy doing:
-* Time series analysis and forecasting
-* Put stuff in production
-* Work with data and APIs
-* Machine learning
-* Bayesian statistic 
-* Data visualization
-* Maps
+
+- 🌱 I’m currently learning at University of California, Irvine UCI
+- 📫 How to reach me: ...
 
 🔗 &nbsp;**I am also on:**
 <p align="left">
-<a href="https://twitter.com/rami_krispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramikrispin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rami-krispin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jmarchadier/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
 <a href="https://instagram.com/rami.krispin.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rami.krispin" height="30" width="40" /></a>
 <a href="https://t.me/+IZmKu6l4mk04YWU5" target="blank"> <img align="center" src="images/Telegram_logo.png" width="31" /></a>
 
