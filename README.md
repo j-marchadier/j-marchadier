@@ -9,7 +9,9 @@ I'm a data scientist student. I mainly code with Python and occasionally with R.
 🔗 &nbsp;**I am also on:**
 <p align="left">
 <a href="https://www.linkedin.com/in/jmarchadier/" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
+
 ## Study projects
+
 <p align="left">
   <a href="https://github.com/juju312000/Scrap-Dashbaord-Crypto"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=juju312000&repo=Scrap-Dashbaord-Crypto&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Scrap-Dashbaord-Crypto"></a>
   <a href="https://github.com/juju312000/Series-Python-Dashboarding"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=juju312000&repo=Series-Python-Dashboarding&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Series-Python-Dashboarding"></a>
