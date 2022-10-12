@@ -4,7 +4,6 @@ I'm a data scientist student. I mainly code with Python and occasionally with R.
 
 
 - 🌱 I’m currently learning at University of California, Irvine UCI
-- 📫 How to reach me: ...
 
 🔗 &nbsp;**I am also on:**
 <p align="left">
