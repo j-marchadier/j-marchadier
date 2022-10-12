@@ -20,7 +20,7 @@ I'm a data scientist student. I mainly code with Python and occasionally with R.
 ## Personnal projects
 
 <p align="left">
-  <a href="https://github.com/RamiKrispin/coronavirus"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=coronavirus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronavirus"></a>
+  <a href="https://github.com/juju312000/MyPortfolio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=juju312000&repo=MyPortfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MyPorfolio"></a>
 </p>
 
 Workshops:
