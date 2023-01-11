@@ -2,6 +2,8 @@
 
 I'm a data scientist student. I mainly code with Python and occasionally with R. I develop and maintain my own Hadoop Cluster. I also create a very basic blockchain to understand how it works. I'm interested in dev-ops solutions (Docker, Github Actions...) 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juju312000&label=Profile%20views&color=0e75b6&style=flat" alt="juju312000" /> </p>
+
 
 - 🌱 I’m currently learning at University of California, Irvine UCI
 
