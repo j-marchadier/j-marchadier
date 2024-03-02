@@ -3,10 +3,9 @@
 #💫 About Me:
 I'm a data scientist student. I mainly code with Python and occasionally with R. I develop and maintain my own Hadoop Cluster. I also create a very basic blockchain to understand how it works. I'm interested in dev-ops solutions (Docker, Github Actions...) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j-marchadier&label=Profile%20views&color=0e75b6&style=flat" alt="j-marchadier" /> </p>
-
 - 🌱 I’m currently working at Airbus as Data Analyst & Engineer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=j-marchadier&label=Profile%20views&color=0e75b6&style=flat" alt="j-marchadier" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmarchadier) 
@@ -16,6 +15,7 @@ I'm a data scientist student. I mainly code with Python and occasionally with R.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases:
