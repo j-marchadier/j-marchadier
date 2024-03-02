@@ -1,6 +1,6 @@
 ## Hi there, I'm Julien 👋
 
-💫 About Me:
+### 💫 About Me:
 I'm a data scientist student. I mainly code with Python and occasionally with R. I develop and maintain my own Hadoop Cluster. I also create a very basic blockchain to understand how it works. I'm interested in dev-ops solutions (Docker, Github Actions...) 
 
 - 🌱 I’m currently working at Airbus as Data Analyst & Engineer
